@@ -1,1 +1,2 @@
 # BLINKIT_SALES_ANALYSIS_PROJECT
+Welcome to the Blinkit Sales Analysis project! This project explores sales data from Blinkit, a popular Indian quick-commerce platform, to uncover valuable business insights through data cleaning, visualization, and interpretation.This project demonstrates how data-driven strategies can help a business like Blinkit better understand customer behavior, optimize product offerings, and identify high-performing outlets.
